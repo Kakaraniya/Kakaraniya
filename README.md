@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/Kakaraniya/Kakaraniya/blob/main/Now%20Shokwing.png)
 <h1 align="center">Hey👋, I'm Nandini Kakaraniya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
