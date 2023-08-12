@@ -7,7 +7,7 @@
 
 
 #  About Me:
-🔭 I’m currently working on the project : Elegant -> <br>👯  I’m looking to collaborate on the latter<br>🌱 I’m currently learning Kali Linux, Frameworks and Cloud<br>💬 Ask me about frontend development and object oriented programming languages<br>📫 How to reach me: nandinikakaraniya@gmail.com<br>⚡ Fun fact: I started coding in 2022<br>
+🔭 I’m currently working on the project : Elegans -> <br>👯  I’m looking to collaborate on the latter<br>🌱 I’m currently learning Kali Linux, Frameworks and Cloud<br>💬 Ask me about frontend development and object oriented programming languages<br>📫 How to reach me: nandinikakaraniya@gmail.com<br>⚡ Fun fact: I started coding in 2022<br>
 
 
 # 💻 Tech Stack:
